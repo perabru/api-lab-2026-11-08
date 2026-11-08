@@ -1,0 +1,23 @@
+name: Relatar comportamento
+description: Reproduza um cenário de consulta ou cache.
+title: "[Bug] "
+body:
+  - type: input
+    id: environment
+    attributes:
+      label: Versão do Node e sistema
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Rota, status, estado de cache e passos
+      description: Prefira uma fixture sintética; não envie endereço pessoal.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Resultado esperado e obtido
+    validations:
+      required: true

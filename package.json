@@ -1,0 +1,1 @@
+{"name":"cep-guard-api","version":"1.0.0","private":true,"type":"module","engines":{"node":">=22"},"scripts":{"start":"node src/server.js","test":"node --test test/api.test.js","demo":"node examples/demo.js"},"license":"MIT"}
