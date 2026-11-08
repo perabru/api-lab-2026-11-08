@@ -25,3 +25,5 @@ Referência oficial [ViaCEP](https://viacep.com.br/), consultada em 08/11/2026. 
 O README destaca Pix voluntário bruno.pera@unifesp.br como incentivo à continuidade. Código aberto e gratuito, sem contrapartidas.
 
 **English:** A local ViaCEP lookup layer with bounded cache, request sharing and full-response timeout. Twelve deterministic tests passed. The direct live request timed out and remains unverified; demos use labeled synthetic fixtures. Explore the offline demo and contribute a failure scenario.
+
+[Post bilíngue publicado e verificado no LinkedIn em 08/11/2026](https://www.linkedin.com/feed/update/urn:li:activity:7525137869502525440/).

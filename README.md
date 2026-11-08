@@ -150,3 +150,5 @@ bruno.pera@unifesp.br
 Local ViaCEP lookup layer with validation, normalized responses, bounded positive/negative cache, shared requests and a full-response timeout. Twelve deterministic tests passed using synthetic provider fixtures. The live request timed out in this environment and remains unverified. No hosted endpoint.
 
 **Licença MIT · Bruno Michel Pera** · [Calendário](https://github.com/perabru/peradev-apis/blob/main/docs/10-days.md)
+
+[Post bilíngue publicado e verificado no LinkedIn em 08/11/2026](https://www.linkedin.com/feed/update/urn:li:activity:7525137869502525440/).

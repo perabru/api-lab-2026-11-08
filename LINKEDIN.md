@@ -1,6 +1,14 @@
 # LinkedIn — CEP Guard API
 
-Entrega: 08/11/2026. Estado: pendente, após confirmar código e ausência de duplicata no perfil Bruno Pera. Texto PT/EN, 2104 caracteres. A limitação da consulta real está explícita no texto.
+- Estado: publicado e verificado em 08/11/2026.
+- Perfil: https://www.linkedin.com/in/brunopera00/ (nome exibido Bruno Michel Pera).
+- Permalink: https://www.linkedin.com/feed/update/urn:li:activity:7525137869502525440/
+- Autorização diária de 04/11/2026 válida até 12/11/2026.
+- Código confirmado antes do envio: https://github.com/perabru/api-lab-2026-11-08/commit/b2ffcf0660c9659452e72432828967e7263a17c4
+- Antes: manifesto/LINKEDIN.md sem post do dia; atividades recentes mostravam Fable Atlas (07/11), Thread Notes (06/11) e Board Lane (05/11).
+- Primeiro acionamento não concluiu: LinkedIn exibiu falha na pré-visualização e manteve o texto no editor. Nova conferência do perfil não encontrou CEP Guard. Somente depois dessa verificação foi acionado “Publicar” para publicar como estava, sem prévia.
+- Resultado final: uma publicação confirmada por “Publicação concluída.” e conteúdo PT/EN visível no permalink, com o link do repositório. Nenhuma republicação anterior ou post duplicado identificado.
+- Texto de origem: 2104 caracteres. Expõe que a consulta ViaCEP real não foi confirmada por timeout; testes/demo são sintéticos.
 
 ## Texto
 
